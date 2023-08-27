@@ -1,6 +1,7 @@
 # Automobile Sales Analysis During Recession Periods
 
 <img src='https://github.com/mlubbad/analyzing_the_impact_of_recession_on_automobile_Sales/blob/2baa0ba96c9bd96ba1eb878d2afd7b4647737ee6/Screenshot%202023-08-28%20at%2001.38.57.png' alt='Interactive Dashboard' />
+<img src='https://github.com/mlubbad/analyzing_the_impact_of_recession_on_automobile_Sales/blob/00e1b499d7c9f06a44cb6e3ca3771bd8d14e101d/Screenshot%202023-08-28%20at%2002.02.34.png' alt='Interactive Dashboard' />
 
 ## Table of Contents
 
