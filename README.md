@@ -8,6 +8,7 @@
 - [Objectives](#objectives)
 - [Data Description](#data-description)
 - [Technologies Used](#technologies-used)
+- [Dashboard Link](#dashboard-link)
 - [Visualizations and Insights - Part 1](#visualizations-and-insights---part-1)
 - [Visualizations and Insights - Part 2](#visualizations-and-insights---part-2)
 - [Conclusion](#conclusion)
@@ -48,6 +49,10 @@ The dataset contains historical automobile sales data, representing sales and re
 - Seaborn
 - Dash (for interactive visualizations)
 - Folium (for mapping)
+
+## Dashboard Link
+
+Explore the interactive dashboard: [Automobile Sales Analysis Dashboard](https://engmlubbad-8050.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/)
 
 ## Visualizations and Insights - Part 1
 
